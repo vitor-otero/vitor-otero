@@ -12,9 +12,10 @@
   <img align="center" alt="Vitor-ObjC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg">
   <img align="center" alt="Vitor-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   
+  <div> <a href="https://github.com/vitor-otero/github-readme-activity-graph"><img alt="Vitor Otero's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vitor-otero&bg_color=0D1117&color=E8BE1B&line=E8BE1B&point=FFFFFF&hide_border=true" /></a>
   ##
  
-<div> 
+
  
   <a href="https://www.linkedin.com/in/vitor-otero/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:vitorotero@icloud.com"><img src="https://img.shields.io/badge/-Icloud-%23333?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a>
