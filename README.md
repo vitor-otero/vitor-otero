@@ -2,8 +2,6 @@
 ## IOS Dev Junior
 
 
-![Snake animation](https://github.com/vitor-otero/vitor-otero/blob/output/github-contribution-grid-snake.svg) 
-
 <div align="center">
   <a href="https://github.com/vitor-otero">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-otero&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
@@ -22,7 +20,7 @@
   <a href = "mailto:vitorotero@icloud.com"><img src="https://img.shields.io/badge/-Icloud-%23333?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a>
     <a href="https://stackoverflow.com/users/14232029/vitor-otero" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-%230077B5?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
    <a href="https://instagram.com/vitorotero" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
+![Snake animation](https://github.com/vitor-otero/vitor-otero/blob/output/github-contribution-grid-snake.svg) 
  
 </div>
 
